@@ -1,1 +1,7 @@
+order_id,customer_id,order_date,category,amount
+1,501,2025-01-01,Electronics,14999
+2,503,2025-01-02,Fashion,1299
+3,501,2025-01-05,Home,899
+4,510,2025-01-05,Fashion,1999
+5,520,2025-01-06,Beauty,399
 
